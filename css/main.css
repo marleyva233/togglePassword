@@ -1,0 +1,14 @@
+#login{
+	text-align: center;
+	padding: 5%;
+	margin: 0 auto;
+}
+input[type="text"],
+input[type="password"]{
+	display: block;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+a:hover {
+	text-decoration: none;
+}
